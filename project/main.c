@@ -6,9 +6,14 @@ void main(void){
 }
 
 void init(int args){
+<<<<<<< HEAD
   
 }
 
 void display(void){
 
 }
+=======
+
+}
+>>>>>>> master
