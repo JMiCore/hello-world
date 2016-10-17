@@ -4,3 +4,7 @@ void main(void){
 	//init parameters
   
 }
+
+void init(int args){
+
+}
