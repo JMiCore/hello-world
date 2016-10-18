@@ -1,2 +1,3 @@
 # hello-world
-use Git Gui to Fetch Remote changeds.
+1.use Git Gui to Fetch Remote changeds.
+2.use Git Gui to pull.
